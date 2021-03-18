@@ -1,17 +1,14 @@
 # AutomaticFunctionalTestsOnShivaWithSeleniumIDE
 Presentation of Selenium IDE application : used to automate functionnal tests on web applications. Example on Shiva (Internal Viseo's Web application)
+(Projet d'automatisation de tests fonctionnels de l'application Shiva, de saisie des feuilles de temps chez VISEO.)
 
-Projet d'automatisation de tests fonctionnels de l'application Shiva, de saisie des feuilles de temps chez VISEO.
+Please read PPT file then install and use Selenium IDE on .side project.
 
-Consultez la présentation PPT et/ou la video puis utilisez le projet .side.
-
-Le projet .side a été réalisé avec Selenium IDE sous Edge, puis il a évolué sous Chrome.
-La version de Shiva testée est la rev.4055 (du 16/03/2021).
-Pour utiliser le projet .side, vous devez renseigner l'URL de Shiva et vos propres identifiants / mots de passe VISEO : 
-j'ai du supprimer les miens car ils apparaissaient en clair.
-
-L'exécution des tests fonctionnels peut ensuite se lancer avec Selenium IDE (pour Chrome)
-et être adaptée avec vos propres droits et données.
+.side project has been realized with Selenium IDE using Edge, then Chrome.
+Shiva's tested version is rev.4055 (on 03/16/2021).
+To use .side project, you have to type Shiva URL (if you know it), and use you own VISEO login/pwd.
+The execution of functionnal tests can then be run with Selenium IDE for Chrome. 
+It can be adapted with your own rights and data.
 
 Corinne VIN
 corinne.vin@viseo.com
